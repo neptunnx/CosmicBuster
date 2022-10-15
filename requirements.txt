@@ -6,5 +6,5 @@ requests
 tasksio
 colorama
 aiohttp
-multiprocessing
 datetime
+multiprocessing
